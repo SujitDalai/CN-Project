@@ -1,0 +1,17 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is a node server for our Wechat application",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index.js"
+  },
+  "author": "Sujit",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
